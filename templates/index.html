@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}" />
+    <title>Data Input Form</title>
+  </head>
+
+  <body>
+    <form id="predictionForm" method="POST">
+      <label for="Umur">Umur:</label>
+      <input type="number" id="Umur" name="Umur" min="0" required />
+
+      <label for="JenisKelamin">Jenis Kelamin:</label>
+      <select id="JenisKelamin" name="JenisKelamin" required>
+        <option value="Laki - Laki">Laki - Laki</option>
+        <option value="Perempuan">Perempuan</option>
+      </select>
+
+      <label for="AktifSosialMedia">Aktif Sosial Media:</label>
+      <select id="AktifSosialMedia" name="AktifSosialMedia" required>
+        <option value="Ya">Ya</option>
+        <option value="Tidak">Tidak</option>
+      </select>
+
+      <label for="DurasiSosmed">Durasi Sosmed:</label>
+      <select id="DurasiSosmed" name="DurasiSosmed" required>
+        <option value="Ya">1 - 4 jam</option>
+        <option value="Tidak">4 - 8 jam</option>
+        <option value="Tidak">> 8 jam</option>
+      </select>
+
+      <label for="TingkatKebergunaanKonten">Tingkat Kebergunaan Konten Medsos:</label>
+      <input type="number" id="TingkatKebergunaanKonten" name="TingkatKebergunaanKonten" min="1" max="5" required />
+
+      <label for="TingkatKebahagiaan">Tingkat Kebahagiaan Aktif Medsos:</label>
+      <input type="number" id="TingkatKebahagiaan" name="TingkatKebahagiaan" min="1" max="5" required />
+
+      <label for="KecemasanTerhadapKontenMedsos">Kecemasan Terhadap Konten Medsos:</label>
+      <select id="KecemasanTerhadapKontenMedsos" name="KecemasanTerhadapKontenMedsos" required>
+        <option value="Ya">Ya</option>
+        <option value="Tidak">Tidak</option>
+      </select>
+
+      <label for="AktifitasFisikMengurangiStress">Aktifitas Fisik Mengurangi Stress:</label>
+      <select id="AktifitasFisikMengurangiStress" name="AktifitasFisikMengurangiStress" required>
+        <option value="Ya">Ya</option>
+        <option value="Tidak">Tidak</option>
+      </select>
+
+      <label for="DurasiTidur">Durasi Tidur (Jam):</label>
+      <input type="number" id="DurasiTidur" name="DurasiTidur" min="0" required />
+
+      <label for="DurasiTanpaMedsos">Durasi Tanpa Medsos (Jam):</label>
+      <input type="number" id="DurasiTanpaMedsos" name="DurasiTanpaMedsos" min="0" required />
+
+      <div>
+        <button type="submit" onclick="predict()">Predict</button>
+        <h3>Hasil Prediksi : Cluster {{ prediction_text }}</h3>
+      </div>
+    </form>
+
+    <div id="predictionResult"></div>
+  </body>
+</html>

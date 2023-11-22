@@ -1,0 +1,76 @@
+Timestamp,Nama Mahasiswa,"Umur Mahasiswa (angka, ex: 20)",Jenis Kelamin Mahasiswa,Asal Instansi Mahasiswa,Apakah anda menggunakan media sosial secara aktif?,Berapa durasi waktu Anda dalam menggunakan media sosial tiap harinya?,Apa Media Sosial yang sering Anda gunakan?,Apakah Anda merasa penggunaan media sosial berpengaruh pada kesejahteraan mental Anda? ,Apakah anda merasa berbagai konten dalam media sosial dapat berguna untuk hidup Anda?,Apakah anda merasa lebih bahagia ketika Aktif menggunakan media sosial?,Apakah Anda pernah merasa cemas atau stress setelah melihat konten di media sosial?,Apa konten yang sering membuat Anda Stress?,Apakah anda setuju kegiatan dan aktifitas fisik dapat mengurangi rasa stress?,"Berapa durasi tidur Anda tiap harinya? (jam, ex:9)","Berapa rata-rata durasi aktifitas real-life Anda tiap harinya(tidak menggunakan media sosial)? (jam, ex: 3)",Cluster_Labels
+30/09/2023 12:15:34,sadat,19,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,4,2,Ya,akhirat,Ya,4,8,0
+30/09/2023 12:18:10,Mochamad Afifuddin,19,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,Instagram,Berpengaruh,4,4,Ya,Politik,Ya,5,7,0
+30/09/2023 17:53:57,Riry,19,Perempuan,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Youtube",Berpengaruh,4,3,Ya,Iklan,Ya,6,8,0
+30/09/2023 18:30:34,Bulan,19,Perempuan,Universitas Airlangga,Ya,1 - 4 jam,Tiktok,Berpengaruh,5,5,Ya,Pendidikan,Ya,7,6,0
+30/09/2023 23:07:06,Valen,20,Perempuan,Universitas Airlangga,Ya,> 8 jam,"Instagram, Tiktok",Berpengaruh,5,5,Tidak,Pendidikan,Ya,6,6,0
+2/10/2023 13:31,Alfariza,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Twitter, Tiktok",Tidak Berpengaruh,4,3,Ya,Politik,Ya,5,8,0
+2/10/2023 14:27,Farud,19,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Twitter, Tiktok, X",Berpengaruh,5,4,Ya,Kesehatan,Tidak,6,8,0
+2/10/2023 14:27,Nicolas Noel Christianto,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,4,4,Ya,"Pendidikan, Kesehatan, Kehidupan",Ya,6,9,2
+2/10/2023 14:46,hasna,20,Perempuan,Universitas Airlangga,Tidak,4 - 8 jam,Instagram,Berpengaruh,3,4,Tidak,Entertainment/Hiburan,Ya,7,11,2
+2/10/2023 19:01,Miftahul Rizqi Az Zamzami ,21,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,Instagram,Berpengaruh,3,4,Tidak,Politik,Ya,6,6,0
+2/10/2023 19:29,Daniel D Dragon ,20,Laki - Laki,Universitas Muhammadiyah ,Ya,4 - 8 jam,YouTube,Tidak Berpengaruh,1,1,Tidak,"Teknologi, Gaming",Ya,8,4,1
+2/10/2023 22:44,Putri,19,Perempuan,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Tiktok",Berpengaruh,4,4,Ya,"Politik, Kesehatan",Ya,6,4,1
+3/10/2023 19:22,Qurotul Uyun Binnisail F,20,Perempuan,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Twitter, Tiktok",Berpengaruh,4,4,Tidak,Politik,Ya,6,5,1
+4/10/2023 18:44,Tiara adifa fadillah,19,Perempuan,Universitas Riau,Ya,1 - 4 jam,"Instagram, Twitter, Tiktok",Berpengaruh,5,4,Ya,Politik,Ya,9,5,1
+4/10/2023 18:45,Aldi yudha,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok, wa",Berpengaruh,4,3,Ya,"Politik, Entertainment/Hiburan",Ya,8,5,1
+4/10/2023 18:45,Dhani Radhiva Houctor Sitanggang ,21,Laki - Laki,Universitas Riau ,Ya,1 - 4 jam,Instagram,Berpengaruh,5,5,Ya,Entertainment/Hiburan,Ya,8,16,0
+4/10/2023 18:47,Zidan,19,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Facebook",Berpengaruh,4,4,Tidak,Politik,Ya,5,6,0
+4/10/2023 18:53,Ilya,20,Perempuan,Universitas Riau ,Ya,1 - 4 jam,"Instagram, Twitter",Tidak Berpengaruh,4,3,Tidak,Politik,Ya,7,8,2
+4/10/2023 18:59,Rizfi Ferdiansyah ,20,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Facebook",Berpengaruh,3,4,Tidak,"Pendidikan, Politik, Teknologi",Ya,7,3,1
+4/10/2023 18:59,brillian asyifa,20,Perempuan,Universitas Riau,Ya,1 - 4 jam,Instagram,Tidak Berpengaruh,3,3,Tidak,tidak ada,Ya,7,2,1
+4/10/2023 19:01,Saju,20,Perempuan,Universitas Sumatera Utara,Ya,4 - 8 jam,Instagram,Berpengaruh,5,5,Tidak,Tdk ada,Ya,8,8,2
+4/10/2023 19:01,kesya rifla,20,Perempuan,Universitas Padjadjaran,Ya,4 - 8 jam,"Instagram, Twitter, Tiktok",Berpengaruh,5,4,Ya,"Entertainment/Hiburan, yang sering mengumbar kebencian/ hate speech",Ya,7,5,1
+4/10/2023 19:02,Alvien,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Tiktok, ",Berpengaruh,4,4,Tidak,Politik,Ya,5,18,0
+4/10/2023 19:04,Lala Puspita,22,Perempuan,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Tiktok",Berpengaruh,4,5,Ya,"Politik, Kesehatan",Ya,6,4,1
+4/10/2023 19:06,Safira Alifiya,17,Perempuan,Universitas Riau,Ya,4 - 8 jam,"Instagram, Twitter, Tiktok, whatsapp",Berpengaruh,3,3,Ya,"Politik, Entertainment/Hiburan, Kesehatan",Ya,7,6,0
+4/10/2023 19:07,Naufal Bipradana W,20,Laki - Laki,Universitas Airlangga,Ya,> 8 jam,"Instagram, Twitter, Tiktok",Berpengaruh,4,4,Ya,"Politik, Kesehatan",Ya,5,4,1
+4/10/2023 19:08,Alvino abimayu ,21,Laki - Laki,Universitas Terbuka,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,4,3,Tidak,Pendidikan,Ya,8,4,1
+4/10/2023 19:24,Alfian,21,Laki - Laki,Universitas Islam Riau,Ya,4 - 8 jam,"Instagram, Twitter, Tiktok",Berpengaruh,3,4,Ya,Pendidikan,Ya,7,8,2
+4/10/2023 19:25,Vicky Rachmad,21,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,4,3,Tidak,Teknologi,Ya,5,15,0
+4/10/2023 19:30,Rauf Alfateh,20,Laki - Laki,Universitas Riau,Ya,1 - 4 jam,"Instagram, Facebook",Berpengaruh,3,3,Tidak,Entertainment/Hiburan,Ya,7,7,0
+4/10/2023 19:42,ROFI ADHANDY,20,Laki - Laki,UNIVERSITAS GUNADARMA,Ya,> 8 jam,"Instagram, Tiktok",Berpengaruh,5,5,Ya,Kesehatan,Ya,6,0,1
+4/10/2023 19:47,Azzikry syahzulia putra,20,Laki - Laki,UIN SUSKA RIAU,Ya,4 - 8 jam,"Instagram, Tiktok, WhatsApp ",Berpengaruh,3,3,Tidak,Politik,Ya,6,5,1
+4/10/2023 19:59,Ulinnuha Zulfa ,21,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Tiktok, WhatsApp ",Tidak Berpengaruh,4,5,Tidak,Kesehatan,Ya,5,1,1
+4/10/2023 20:00,NUR ISLAH SAVITRI.S,20,Perempuan,Universitas Andalas,Ya,1 - 4 jam,Instagram,Berpengaruh,3,3,Ya,Entertainment/Hiburan,Ya,8,8,2
+4/10/2023 20:02,Dzakwan Fiodora S,19,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Tiktok, wa",Tidak Berpengaruh,3,3,Tidak,Kesehatan,Ya,7,3,1
+4/10/2023 20:04,moch. fuad hasyim,21,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Twitter",Berpengaruh,4,3,Tidak,konten gajelas,Ya,8,7,0
+4/10/2023 20:06,Alfiwa Indrayani Putri,20,Perempuan,Institut Pertanian Bogor,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,4,3,Ya,Pendidikan,Ya,5,15,0
+4/10/2023 20:45,fira,20,Perempuan,Universitas Gadjah Mada,Ya,4 - 8 jam,"Instagram, Twitter, Tiktok",Berpengaruh,4,3,Ya,Pendidikan,Ya,6,4,1
+4/10/2023 20:47,Muhammad salman salim barabud,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,3,3,Tidak,Entertainment/Hiburan,Ya,7,20,0
+4/10/2023 20:51,Rismanda Desy ,20,Perempuan,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Tiktok",Berpengaruh,5,5,Ya,Politik,Ya,7,10,2
+4/10/2023 21:10,Aisyah,20,Perempuan,Universitas Baiturrahmah,Ya,4 - 8 jam,"Instagram, Twitter, Tiktok",Berpengaruh,5,4,Tidak,Politik,Ya,8,10,2
+4/10/2023 21:25,erwina dwiyanti,20,Perempuan,UIN SUSKA RIAU,Ya,1 - 4 jam,"Instagram, Tiktok, whatsapp",Berpengaruh,2,3,Ya,"pencapaian orang lain dalam hidupnya sehingga menimbulkan rasa takut, insecure, dan cemas akan masa depan dan akhirnya membandingkan hidup dengan pencapaian orang tersebut.",Ya,7,3,1
+4/10/2023 21:29,Siti Khoiriyah ,21,Perempuan,UIN SUSKA RIAU,Ya,4 - 8 jam,"Instagram, Tiktok",Berpengaruh,5,5,Ya,Kesehatan,Ya,5,2,1
+5/10/2023 9:19,irsyad,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,Instagram,Berpengaruh,4,4,Ya,"Kesehatan, berita",Ya,6,3,1
+5/10/2023 9:27,Rizky Pambudi ,21,Laki - Laki,Universitas Islam Indonesia ,Ya,4 - 8 jam,"Instagram, Tiktok",Berpengaruh,3,4,Ya,Politik,Ya,7,5,1
+5/10/2023 10:57,mifbaqul munir,21,Laki - Laki,Universitas Airlangga,Ya,> 8 jam,"Instagram, Tiktok",Berpengaruh,5,3,Ya,Teknologi,Ya,7,3,1
+5/10/2023 13:46,Mifzal Novel,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,3,3,Tidak,"Pendidikan, Politik",Ya,5,8,0
+5/10/2023 14:12,brina,20,Perempuan,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,4,4,Ya,"Pendidikan, Kesehatan",Ya,5,4,1
+5/10/2023 14:15,Erika,20,Perempuan,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok, Linkedin",Berpengaruh,5,5,Tidak,"Tidak ada, saya happy",Ya,5,6,0
+5/10/2023 15:33,Ananda Ramadana Ahmad Mulya ,20,Laki - Laki,Universitas Trunojoyo Madura ,Ya,> 8 jam,"Instagram, Tiktok",Berpengaruh,4,3,Tidak,"Politik, Kesehatan",Ya,4,6,0
+5/10/2023 16:01,Soni Indra Maulana,21,Laki - Laki,Universitas Trunojoyo Madura ,Ya,4 - 8 jam,"Instagram, Tiktok",Berpengaruh,4,3,Ya,"Pendidikan, Kesehatan",Ya,5,8,0
+5/10/2023 16:05,Dimas Bachtiar ,21,Laki - Laki,Universitas Trunojoyo Madura ,Ya,> 8 jam,Instagram,Berpengaruh,4,5,Tidak,Politik,Ya,7,2,1
+5/10/2023 18:14,Silvi Nuripah Harahap ,20,Perempuan,UIN SUSKA RIAU ,Ya,> 8 jam,Tiktok,Berpengaruh,5,3,Ya,Politik,Ya,9,16,1
+6/10/2023 2:32,Alisa maharani,19,Perempuan,Universitas Muhammadiyah Sumatera Utara,Ya,> 8 jam,"Instagram, Tiktok",Berpengaruh,1,1,Tidak,Politik,Ya,7,4,1
+6/10/2023 12:59,Rheza Mahendra P,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, youtube",Berpengaruh,5,5,Ya,"konten"" yang menimbulkan kekhawatiran, misalkan masa depan, alam selanjutnya, dll",Ya,6,5,1
+6/10/2023 14:05,Rafly,20,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, X  / Twitter, Tiktok",Berpengaruh,4,3,Tidak,"Pendidikan, Kesehatan, Teknologi",Tidak,8,14,2
+6/10/2023 14:17,Aufar Raihan Rahmat ,21,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Tiktok",Berpengaruh,4,4,Tidak,Tidak ada,Ya,5,8,0
+8/10/2023 12:19,Muhammad Alfatih,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok",Tidak Berpengaruh,4,4,Ya,"Pendidikan, Politik",Ya,6,7,0
+9/10/2023 10:41,Anas Khori,21,Laki - Laki,Universitas Trunojoyo Madura,Ya,4 - 8 jam,"Instagram, Facebook, X  / Twitter, Tiktok",Berpengaruh,4,4,Ya,"Pendidikan, Kesehatan",Ya,6,8,0
+9/10/2023 10:43,Zabi,21,Laki - Laki,Universitas Trunojoyo Madura ,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,4,3,Ya,"Pendidikan, Politik",Ya,5,10,2
+9/10/2023 11:32,Asraf Ayyasi Putra,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,Instagram,Berpengaruh,3,3,Tidak,Politik,Ya,6,4,1
+9/10/2023 11:34,Damar,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Facebook, X  / Twitter, Tiktok",Berpengaruh,4,4,Tidak,Politik,Ya,6,17,0
+9/10/2023 13:08,Ahmad Rayhan,21,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Facebook, X  / Twitter, Tiktok",Berpengaruh,5,5,Ya,"Pendidikan, Politik, Entertainment/Hiburan, Kesehatan, Teknologi",Ya,6,8,0
+9/10/2023 13:22,Angga Aprillio,21,Laki - Laki,Universitas Muhamadiyah Malang,Ya,4 - 8 jam,"Instagram, Tiktok",Berpengaruh,4,4,Ya,Kesehatan,Ya,6,10,2
+9/10/2023 13:34,sendityo aria yesaliadi,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,Instagram,Berpengaruh,5,5,Tidak,Pendidikan,Ya,8,4,1
+9/10/2023 13:36,Olivia Cherie Comeito,20,Perempuan,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Tiktok",Berpengaruh,5,4,Tidak,Kesehatan,Ya,6,2,1
+10/10/2023 16:10,Johan,19,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Facebook, X  / Twitter, Tiktok",Berpengaruh,3,3,Tidak,Politik,Ya,5,9,2
+10/10/2023 16:13,Moch Ilyas Saktiono Putra,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, Facebook, X  / Twitter, Tiktok",Berpengaruh,4,4,Ya,Karir,Ya,4,8,0
+10/10/2023 16:45,Maul,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, X  / Twitter, Tiktok",Berpengaruh,3,3,Ya,"Pendidikan, Entertainment/Hiburan, Teknologi",Ya,7,6,0
+10/10/2023 17:27,ach sahal,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, X  / Twitter",Tidak Berpengaruh,4,3,Tidak,"Pendidikan, Kesehatan",Ya,5,9,2
+11/10/2023 21:28,Daffa,20,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, X  / Twitter",Tidak Berpengaruh,3,3,Ya,Entertainment/Hiburan,Ya,4,5,0
+11/10/2023 21:30,Naufal,21,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,"Instagram, X  / Twitter",Berpengaruh,5,4,Ya,"Politik, Kesehatan",Ya,4,6,0
+11/10/2023 21:44,Satria Pamungkas ,20,Laki - Laki,Universitas Airlangga,Tidak,1 - 4 jam,"Instagram, Tiktok",Tidak Berpengaruh,4,3,Tidak,Tidak Stress,Ya,5,15,0
+11/10/2023 22:01,Muhammad Fauzan Ramadhan,19,Laki - Laki,Universitas Airlangga,Ya,4 - 8 jam,"Instagram, Tiktok",Berpengaruh,4,3,Ya,Politik,Tidak,6,7,0
+11/10/2023 22:27,Abram,20,Laki - Laki,Universitas Airlangga,Ya,1 - 4 jam,Instagram,Berpengaruh,4,4,Tidak,Teknologi,Ya,8,10,2
